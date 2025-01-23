@@ -1,0 +1,1 @@
+what is the java program to store there number in 3*4 materix in a double metertional array find the sum of all number array find the sum of all number of the matrix and display the sum using an input statement
